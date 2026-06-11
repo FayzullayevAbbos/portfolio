@@ -40,5 +40,48 @@ export const PATENTS = patents as Localized[];
 export const PATENT_IMAGES = patentImages as string[];
 export const JOURNALS = journals as JournalItem[];
 export const PUBLICATIONS = publications as string[];
-export const TEACHERS = teachers as Teacher[];
-export const CONGRATULATIONS = congratulations as Congratulation[];
+
+/**
+ * Source content was imported with literal "\r\n" markers inside single long
+ * strings. Split those into real paragraphs and drop empties so the UI can
+ * render clean <p> blocks instead of showing the escape sequences.
+ */
+function splitParagraphs(parts: string[]): string[] {
+  return parts
+    .flatMap((s) => s.split(/\\r\\n|\\n|\r\n|\n/))
+    .map((s) => s.trim())
+    .filter(Boolean);
+}
+
+function normalizeLocalizedText<T extends { text: Record<AppLanguage, string[]> }>(
+  items: T[],
+): T[] {
+  return items.map((item) => ({
+    ...item,
+    text: Object.fromEntries(
+      Object.entries(item.text).map(([lang, parts]) => [
+        lang,
+        splitParagraphs(parts as string[]),
+      ]),
+    ) as Record<AppLanguage, string[]>,
+  }));
+}
+
+function normalizeLocalizedBio<T extends { bio: Record<AppLanguage, string[]> }>(
+  items: T[],
+): T[] {
+  return items.map((item) => ({
+    ...item,
+    bio: Object.fromEntries(
+      Object.entries(item.bio).map(([lang, parts]) => [
+        lang,
+        splitParagraphs(parts as string[]),
+      ]),
+    ) as Record<AppLanguage, string[]>,
+  }));
+}
+
+export const TEACHERS = normalizeLocalizedBio(teachers as Teacher[]);
+export const CONGRATULATIONS = normalizeLocalizedText(
+  congratulations as Congratulation[],
+);

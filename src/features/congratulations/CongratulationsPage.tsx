@@ -40,15 +40,15 @@ function CongratulationCard({ item }: { item: Congratulation }) {
 
   return (
     <article className="overflow-hidden rounded-xl border border-border bg-card shadow-sm">
-      <div className="grid gap-6 p-6 sm:grid-cols-[200px_1fr]">
+      <div className="grid items-start gap-6 p-6 sm:grid-cols-[200px_1fr]">
         {item.image && (
-          <figure className="relative aspect-[3/4] overflow-hidden rounded-lg border border-border bg-muted sm:aspect-auto sm:h-full">
+          <figure className="relative mx-auto aspect-[3/4] w-full max-w-[200px] self-start overflow-hidden rounded-lg border border-border bg-muted sm:mx-0 sm:max-w-none">
             <Image
               src={item.image}
               alt={item.title[currentLang]}
               fill
-              sizes="200px"
-              className="object-cover"
+              sizes="(max-width: 640px) 200px, 200px"
+              className="object-cover object-top"
             />
           </figure>
         )}

@@ -5,7 +5,7 @@ import { useTranslation } from "react-i18next";
 
 import { PageHeader } from "@/components/layout/PageHeader";
 import { Container, Section } from "@/components/ui/section";
-import { HOME_GALLERY } from "@/data/home";
+import { GALLERY } from "@/data/home";
 
 export function GalleryPage() {
   const { t } = useTranslation(["nav", "home"]);
@@ -19,7 +19,7 @@ export function GalleryPage() {
       <Section>
         <Container>
           <div className="columns-1 gap-4 sm:columns-2 lg:columns-3 [&>*]:mb-4">
-            {HOME_GALLERY.map((item) => (
+            {GALLERY.map((item) => (
               <figure
                 key={item.id}
                 className="break-inside-avoid overflow-hidden rounded-lg border border-border bg-muted shadow-sm"

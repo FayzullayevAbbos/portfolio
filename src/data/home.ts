@@ -17,15 +17,20 @@ export const HOME_STATS: StatItem[] = [
   { key: "disciples", value: 31, icon: "GraduationCap" },
 ];
 
-// Curated photo gallery (real images copied from the source site).
-export const HOME_GALLERY: GalleryItem[] = [
-  { id: 1, image: "/images/gallery/g1.jpg" },
-  { id: 2, image: "/images/gallery/g2.jpg" },
-  { id: 3, image: "/images/gallery/g3.jpg" },
-  { id: 4, image: "/images/gallery/g4.jpg" },
-  { id: 5, image: "/images/gallery/g5.jpg" },
-  { id: 6, image: "/images/gallery/g6.jpg" },
-  { id: 7, image: "/images/gallery/g7.jpg" },
-  { id: 8, image: "/images/gallery/g8.jpg" },
+// Full photo gallery — all 27 images from the source site (slayder table),
+// preserving the original order and file extensions.
+const GALLERY_FILES = [
+  "g1.jpg", "g2.jpg", "g3.jpg", "g4.png", "g5.png", "g6.jpg", "g7.jpg",
+  "g8.png", "g9.png", "g10.png", "g11.png", "g12.jpg", "g13.jpg", "g14.jpg",
+  "g15.jpg", "g16.jpg", "g17.jpg", "g18.jpg", "g19.jpg", "g20.jpg", "g21.jpg",
+  "g22.jpg", "g23.jpg", "g24.jpg", "g25.jpg", "g26.jpg", "g27.jpg",
 ];
+
+export const GALLERY: GalleryItem[] = GALLERY_FILES.map((file, i) => ({
+  id: i + 1,
+  image: `/images/gallery/${file}`,
+}));
+
+// Home preview shows the first 8; the gallery page shows all of them.
+export const HOME_GALLERY: GalleryItem[] = GALLERY.slice(0, 8);
        
