@@ -1,0 +1,31 @@
+{
+  "welcomeTitle": "Web saytga Xush kelibsiz!",
+  "heroLead": "Raqamli signal va tasvirlarni qayta ishlash, splayn-funksiyalar va sun'iy intellekt sohasidagi olim. Muhammad al-Xorazmiy nomidagi TATU \"Sun'iy intellekt\" kafedrasi mudiri.",
+  "heroCredentials": {
+    "experience": "yil ilmiy va pedagogik tajriba",
+    "articles": "ilmiy maqola",
+    "patents": "patent va guvohnoma",
+    "scholars": "fan doktori va nomzodi"
+  },
+  "viewWorks": "Ilmiy ishlari bilan tanishish",
+  "sectionsTitle": "Bo'limlar",
+  "welcomeText": "XXI asrda axborot texnologiyalarining holati va rivojlanish istiqbollari telekommunikatsiya va jamiyatni axborotlashtirish dunyosidagi eng dinamik va tez rivojlanayotgan texnologiyalardan biri bo'lgan raqamli signallarni qayta ishlash texnikasidan keng amaliy foydalanish bilan tavsiflanadi. Respublikamizda AKT rivojlanishining hozirgi bosqichi raqamli signallarni qayta ishlashning o'ziga xos usullari, algoritmlari va apparatlarini tezda yaratishni talab qiladi.",
+  "services": {
+    "educational": "O'quv ishlari",
+    "educationalText": "Ushbu sahifada professor Zaynidinov H.N. ning o'quv ishlari haqida ma'lumotlar keltirilgan.",
+    "scientific": "Ilmiy ishlari",
+    "scientificText": "Ushbu sahifada professor Zaynidinov H.N. ning ilmiy faoliyati haqida ma'lumotlar keltirilgan.",
+    "projects": "Ilmiy loyihalar",
+    "projectsText": "Ushbu sahifada professor Zaynidinov H.N. ning ilmiy loyihalari haqida ma'lumotlar keltirilgan.",
+    "disciples": "Shogirdlari",
+    "disciplesText": "Ushbu sahifada professor Zaynidinov H.N. ning shogirdlari haqida ma'lumotlar keltirilgan."
+  },
+  "stats": {
+    "title": "Erishilgan yutuqlar",
+    "monographs": "Monografiyalar",
+    "textbooks": "Darsliklar",
+    "projects": "Ilmiy loyihalar",
+    "disciples": "Shogirdlari"
+  },
+  "photoGallery": "Fotogalereya"
+}

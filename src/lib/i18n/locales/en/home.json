@@ -1,0 +1,31 @@
+{
+  "welcomeTitle": "Welcome to the website!",
+  "heroLead": "A scientist in digital signal and image processing, spline functions and artificial intelligence. Head of the \"Artificial Intelligence\" department at TUIT named after Muhammad al-Khorazmi.",
+  "heroCredentials": {
+    "experience": "years of research and teaching",
+    "articles": "scientific articles",
+    "patents": "patents and certificates",
+    "scholars": "doctors and candidates of science"
+  },
+  "viewWorks": "Explore the scientific work",
+  "sectionsTitle": "Sections",
+  "welcomeText": "The state and prospects for the development of information technologies in the 21st century are characterized by the wide practical use of digital signal processing technology - one of the most dynamic and rapidly developing technologies in the world of telecommunications and informatization of society. The current stage of development of ICT in our republic requires the speedy creation of original methods, algorithms and hardware for digital signal processing.",
+  "services": {
+    "educational": "Educational work",
+    "educationalText": "This page contains information about the academic work of Professor Zaynidinov H.N.",
+    "scientific": "Scientific works",
+    "scientificText": "This page contains information about the scientific activity of Professor Zaynidinov H.N.",
+    "projects": "Scientific projects",
+    "projectsText": "This page contains information about the scientific projects of Professor Zaynidinov H.N.",
+    "disciples": "Disciples",
+    "disciplesText": "This page contains information about the students of Professor Zaynidinov H.N."
+  },
+  "stats": {
+    "title": "Achievements",
+    "monographs": "Monographs",
+    "textbooks": "Textbooks",
+    "projects": "Scientific projects",
+    "disciples": "Disciples"
+  },
+  "photoGallery": "Photo gallery"
+}

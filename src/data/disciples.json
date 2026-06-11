@@ -1,0 +1,498 @@
+[
+  {
+    "id": 2,
+    "name": "Xamdamov O'tkir Raxmatillayevich",
+    "category": "dsc",
+    "position": {
+      "uz": "Kelajak tehnologiyalari va boshkaruv universiteti rectori lavozimida ishlaydi.",
+      "ru": "Ректор университета будущих технологий и менежмента",
+      "en": "Xozir Toshkent axborot texnologiyalari universiteti, \"Telekommunikasiyada boshqaruv tizimlarining apparat va dasturiy ta'minoti\" kafedrasi professori lavozimida ishlaydi."
+    },
+    "topic": {
+      "uz": "«Telekommunikasiya raqamli tizimlarida ko'p o'lchovli signallarga veyvlet funksiyalar yordamida parallel ishlov berish modellari va algoritmlari». Ixtisosligi:05.04.01–Telekommunikasiya va kompyuter tizimlari, telekommunikasiya tarmoqlari va qurilmalari. Axborotlarni taqsimlash (texnika fanlari).",
+      "ru": "«Telekommunikasiya raqamli tizimlarida ko'p o'lchovli signallarga veyvlet funksiyalar yordamida parallel ishlov berish modellari va algoritmlari». Ixtisosligi:05.04.01–Telekommunikasiya va kompyuter tizimlari, telekommunikasiya tarmoqlari va qurilmalari. Axborotlarni taqsimlash (texnika fanlari).",
+      "en": "«Telekommunikasiya raqamli tizimlarida ko'p o'lchovli signallarga veyvlet funksiyalar yordamida parallel ishlov berish modellari va algoritmlari». Ixtisosligi:05.04.01–Telekommunikasiya va kompyuter tizimlari, telekommunikasiya tarmoqlari va qurilmalari. Axborotlarni taqsimlash (texnika fanlari)."
+    },
+    "image": "/images/disciples/d2.png"
+  },
+  {
+    "id": 3,
+    "name": "Maxmanov Orif Kudratovich",
+    "category": "dsc",
+    "position": {
+      "uz": "Hozirda O'zbekiston Respublikasi Vazirlar Mahkamasi huzuridagi Oliy Attestatsiya komissiyasida faoliyat yuritmoqda",
+      "ru": "В настоящее время работает в Высшей аттестационной комиссии при Кабинете Министров Республики Узбекистан.",
+      "en": "Currently, he is working in the High Attestation Commission under the Cabinet of Ministers of the Republic of Uzbekistan"
+    },
+    "topic": {
+      "uz": "\"Oliy ta'lim va ilmiy-tadqiqot muassasalari ilmiy salohiyatini monitoring qilish usul va modellarini yaratish\".",
+      "ru": "«Создание методов и моделей мониторинга научного потенциала вузов и научно-исследовательских учреждений».",
+      "en": "\"Creating methods and models for monitoring the scientific potential of higher education and research institutions\"."
+    },
+    "image": "/images/disciples/d3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dhananjay Singh",
+    "category": "abroad",
+    "position": {
+      "uz": "Xozir Janubiy Koreyaning Korea University of Foreign Studies(HUFS) universitetida Associate Professor va Electronics Engineering Department Director ReSENSE Lab lavozimlarida ishlaydi.Xindiston fuqarosi.",
+      "ru": "Xozir Janubiy Koreyaning Korea University of Foreign Studies(HUFS) universitetida Associate Professor va Electronics Engineering Department Director ReSENSE Lab lavozimlarida ishlaydi.Xindiston fuqarosi.",
+      "en": "Xozir Janubiy Koreyaning Korea University of Foreign Studies(HUFS) universitetida Associate Professor va Electronics Engineering Department Director ReSENSE Lab lavozimlarida ishlaydi.Xindiston fuqarosi."
+    },
+    "topic": {
+      "uz": "\"IP-Based Wireless Sensor Network for Global Healthcare Monitoring Applications\" Janubiy Koreyaning DongSeo universiteti, Pusan shaxri.",
+      "ru": "\"IP-Based Wireless Sensor Network for Global Healthcare Monitoring Applications\" Janubiy Koreyaning DongSeo universiteti, Pusan shaxri.",
+      "en": "\"IP-Based Wireless Sensor Network for Global Healthcare Monitoring Applications\" Janubiy Koreyaning DongSeo universiteti, Pusan shaxri."
+    },
+    "image": "/images/disciples/d4.png"
+  },
+  {
+    "id": 9,
+    "name": "Dilshodbek Kuryazov",
+    "category": "abroad",
+    "position": {
+      "uz": "Xozir Toshkent axborot texnologiyalari universitetining Urganch filialida \"Dasturiy injiniring\" kafedrasi mudiri lavozimida ishlaydi.",
+      "ru": "В настоящее время работает заведующим кафедрой «Программная инженерия» Ургенчского филиала Ташкентского университета информационных технологий.",
+      "en": "Currently, he works as the head of the \"Software Engineering\" department at the Urganch branch of the Tashkent University of Information Technologies."
+    },
+    "topic": {
+      "uz": "\"Model Difference Representation\". Germaniyaning Oldenburg shaxridagi Karl von Ossiyetski universiteti.",
+      "ru": "«Представление разницы моделей». Университет Карла фон Осецкого в Ольденбурге, Германия.",
+      "en": "\"Model Difference Representation\". Karl von Ossietzky University in Oldenburg, Germany."
+    },
+    "image": "/images/disciples/d9.png"
+  },
+  {
+    "id": 21,
+    "name": "Aliqulov Akmal Xushmuratovich",
+    "category": "doctoral",
+    "position": {
+      "uz": "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universiteti, Informatika asoslari kafedrasi katta o'qituvchisi",
+      "ru": "Ташкентский университет информационных технологий имени Мухаммада ал-Хоразми, старший преподаватель кафедры информатики",
+      "en": "Tashkent University of Information Technologies named after Muhammad al-Khorazmi, senior lecturer of the Department of Informatics"
+    },
+    "topic": {
+      "uz": "Ko‘p parametrli tibbiyot signallariga intellektual ishlov berish asosida masofadan tashxislash jarayonlarining model va alogoritmlari",
+      "ru": "Модели и алгоритмы процессов дистанционной диагностики на основе интеллектуальной обработки многопараметрических медицинских сигналов",
+      "en": "Models and algorithms of remote diagnosis processes based on intelligent processing of multi-parameter medical signals"
+    },
+    "image": "/images/disciples/d21.png"
+  },
+  {
+    "id": 22,
+    "name": "Qobilov Sirojiddin Sherqulovich",
+    "category": "doctoral",
+    "position": {
+      "uz": "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universiteti, Sun'iy intellekt kafedrasi assistenti",
+      "ru": "Ассистент кафедры искусственного интеллекта, Ташкентский университет информационных технологий имени Мухаммада ал-Хоразми",
+      "en": "Assistant of the Department of Artificial Intelligence, Tashkent University of Information Technologies named after Muhammad al-Khorazmi"
+    },
+    "topic": {
+      "uz": "Signallarni raqamli ishlashning matematik va sun'iy intellekt modellarini ishlab chiqish",
+      "ru": "Разработка математических моделей и моделей искусственного интеллекта цифровой обработки сигналов",
+      "en": "Development of mathematical and artificial intelligence models of digital signal processing"
+    },
+    "image": "/images/disciples/d22.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Ma'mirov Xudoyberdi Xomidjonovich",
+    "category": "doctoral",
+    "position": {
+      "uz": "Hozirda Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universitetining universitetining “Sun'iy intellekt” kafedrasi 1- kurs tayanch doktoranti",
+      "ru": "В настоящее время является докторантом 1 курса кафедры «Искусственный интеллект» Ташкентского университета информационных технологий имени Мухаммада ал-Хоразми.",
+      "en": "Currently, he is a 1st-year doctoral student at the \"Artificial Intelligence\" department of the Tashkent University of Information Technologies named after Muhammad al-Khorazmi."
+    },
+    "topic": {
+      "uz": "05.01.04 – Hisoblash mashinalari, majmualari va komp'yuter tarmoqlarining matematik va dasturiy ta'minoti (texnika fanlari).",
+      "ru": "05.01.04 – Hisoblash mashinalari, majmualari va komp'yuter tarmoqlarining matematik va dasturiy ta'minoti (texnika fanlari).",
+      "en": "05.01.04 – Hisoblash mashinalari, majmualari va komp'yuter tarmoqlarining matematik va dasturiy ta'minoti (texnika fanlari)."
+    },
+    "image": "/images/disciples/d23.jpg"
+  },
+  {
+    "id": 25,
+    "name": "Dadajonova Zilola Botirjon qizi",
+    "category": "doctoral",
+    "position": {
+      "uz": "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universitetining universitetining “Sun'iy intellekt” kafedrasi 1- kurs tayanch doktoranti",
+      "ru": "1 курс базового докторанта кафедры «Искусственный интеллект» Ташкентского университета информационных технологий имени Мухаммада ал-Хоразми",
+      "en": "1st year basic doctoral student of the Department of \"Artificial Intelligence\" of the Tashkent University of Information Technologies named after Muhammad al-Khorazmi"
+    },
+    "topic": {
+      "uz": "05.01.11 – Raqamli texnologiyalar va Sun'iy intellekt (texnika fanlari)",
+      "ru": "05.01.11 – Цифровые технологии и искусственный интеллект (технические науки)",
+      "en": "05.01.11 – Digital technologies and Artificial Intelligence (technical sciences)"
+    },
+    "image": "/images/disciples/d25.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Norboeva Mahliyo Rustamovna",
+    "category": "doctoral",
+    "position": {
+      "uz": "Hozirda Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universitetining universitetining “Sun'iy intellekt” kafedrasi 1- kurs tayanch doktoranti",
+      "ru": "В настоящее время является докторантом 1 курса кафедры «Искусственный интеллект» Ташкентского университета информационных технологий имени Мухаммада ал-Хоразми.",
+      "en": "Currently, he is a 1st-year doctoral student at the \"Artificial Intelligence\" department of the Tashkent University of Information Technologies named after Muhammad al-Khorazmi."
+    },
+    "topic": {
+      "uz": "Sun'iy intellektda biomedisina signallarini raqamli ishlash algoritmlarining samaradorligini oshirish",
+      "ru": "Повышение эффективности алгоритмов цифровой обработки биомедицинских сигналов в искусственном интеллекте",
+      "en": "Improving the efficiency of algorithms for digital processing of biomedical signals in artificial intelligence"
+    },
+    "image": "/images/disciples/d27.png"
+  },
+  {
+    "id": 28,
+    "name": "Xodjaeva Damira Farxodovna",
+    "category": "doctoral",
+    "position": {
+      "uz": "Samarqand davlat universiteti 1-kurs tayanch doktoranti",
+      "ru": "1 курс базового докторанта Самаркандского государственного университета",
+      "en": "1st year basic doctoral student of Samarkand State University"
+    },
+    "topic": {
+      "uz": "05.01.11 – Raqamli texnologiyalar va Sun'iy intellekt (texnika fanlari)",
+      "ru": "05.01.11 – Цифровые технологии и искусственный интеллект (технические науки)",
+      "en": "05.01.11 – Digital technologies and Artificial Intelligence (technical sciences)"
+    },
+    "image": "/images/disciples/d28.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Gofurjonov Muxammadali Rasuljon o‘gli",
+    "category": "doctoral",
+    "position": {
+      "uz": "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universitetining stajyor tadqiqotchisi",
+      "ru": "Стажер-исследователь Ташкентского университета информационных технологий имени Мухаммада ал-Хоразми",
+      "en": "Intern researcher at Tashkent University of Information Technologies named after Muhammad al-Khorazmi"
+    },
+    "topic": {
+      "uz": "05.01.11 –Raqamli texnologiya va sun'iy intellekt (texnika fanlari).",
+      "ru": "05.01.11 – Цифровые технологии и искусственный интеллект (технические науки).",
+      "en": "05.01.11 – Digital technology and artificial intelligence (technical sciences)."
+    },
+    "image": "/images/disciples/d29.png"
+  },
+  {
+    "id": 31,
+    "name": "Boytemirov Asror Maxmado‘stovich",
+    "category": "doctoral",
+    "position": {
+      "uz": "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universitetining universitetining “Sun'iy intellekt” kafedrasi 1- kurstayanch doktoranti",
+      "ru": "1 курс докторант кафедры «Искусственный интеллект» Ташкентского университета информационных технологий имени Мухаммада ал-Хоразми",
+      "en": "1st year doctoral student of the Department of \"Artificial Intelligence\" of the Tashkent University of Information Technologies named after Muhammad al-Khorazmi"
+    },
+    "topic": {
+      "uz": "5.01.11 – Raqamli texnologiyalar va Sun'iy intellekt (texnika fanlari)",
+      "ru": "1 курс докторант кафедры «Искусственный интеллект» Ташкентского университета информационных технологий имени Мухаммада ал-Хоразми",
+      "en": "1st year doctoral student of the Department of \"Artificial Intelligence\" of the Tashkent University of Information Technologies named after Muhammad al-Khorazmi"
+    },
+    "image": "/images/disciples/d31.png"
+  },
+  {
+    "id": 99,
+    "name": "Uraqov Shokir Ulashovich",
+    "category": "phd",
+    "position": {
+      "uz": "Samarqand davlat tibbiyot universitetining Fizika, biofizika va tibbiy fizika kafedrasi mudiri, dotsent",
+      "ru": "Заведующий кафедрой физики, биофизики и медицинской физики Самаркандского государственного медицинского университета, доцент",
+      "en": "Head of the Department of Physics, Biophysics and Medical Physics of Samarkand State Medical University, associate professor"
+    },
+    "topic": {
+      "uz": "Gibrid intellektual tizimlarda kollegial diagnostik qarorlarni qabul qilishning algoritmlari va usullari",
+      "ru": "Алгоритмы и методы коллегиального принятия диагностических решений в гибридных интеллектуальных системах",
+      "en": "Algorithms and methods of collegial diagnostic decision-making in hybrid intelligent systems"
+    },
+    "image": "/images/disciples/d99.jpg"
+  },
+  {
+    "id": 100,
+    "name": "Mahmanov Orif Qudratovich",
+    "category": "phd",
+    "position": {
+      "uz": "Uzbekiston Respublikasi OAK",
+      "ru": "ВАК республики Узбекистан",
+      "en": "1st year b"
+    },
+    "topic": {
+      "uz": "“Олий таълим ва илмий-тадқиқот муассасалари илмий салоҳиятини мониторинг қилиш усул ва моделларини яратиш”.",
+      "ru": "Модели и алгоритмы информационной системы мониторинга процесса аттестации высококвалифицированных научных и научно-педагогических кадров",
+      "en": "Models and algorithms of the information system for monitoring the attestation process of highly qualified scientific and scientific-pedagogical personnel"
+    },
+    "image": "/images/disciples/d100.png"
+  },
+  {
+    "id": 101,
+    "name": "Mirzayev Avaz Egamberdiyevich",
+    "category": "phd",
+    "position": {
+      "uz": "Hozirda Toshkent axborot texnologiyalari universiteti, \"Axborot texnologiyalari\" kafedrasi dosenti lavozimida faoliyat yuritmoqda",
+      "ru": "В настоящее время работает доцентом Ташкентского университета информационных технологий, кафедра «Информационные технологии».",
+      "en": "Currently, he works as an associate professor at Tashkent University of Information Technologies, \"Information Technologies\" department"
+    },
+    "topic": {
+      "uz": "«Splayn-funksiyalar asosida signallarni raqamli ishlash algoritmlarni samaradorligini oshirish».",
+      "ru": "«Повышение эффективности алгоритмов цифровой обработки сигналов на основе сплайн-функций».",
+      "en": "\"Improving the effectiveness of digital signal processing algorithms based on spline functions\"."
+    },
+    "image": "/images/disciples/d101.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Mallayev Oybek Usmonqulovich",
+    "category": "phd",
+    "position": {
+      "uz": "Hozirda Perfect University Raqamli Technologiyalar kafedrasi mudiri lavozimida faoliyat yuritmoqda",
+      "ru": "В настоящее время работает заведующим кафедрой цифровых технологий Perfect University.",
+      "en": "Currently, he works as the head of the Department of Digital Technologies at Perfect University"
+    },
+    "topic": {
+      "uz": "«Ko'p yadroli prosessorlarda seysmik signallarga raqamli ishlov berish uchun parallel algoritmlar yaratish».",
+      "ru": "«Разработка параллельных алгоритмов цифровой обработки сейсмических сигналов на многоядерных процессорах».",
+      "en": "\"Development of parallel algorithms for digital processing of seismic signals on multi-core processors\"."
+    },
+    "image": "/images/disciples/d102.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Nurjanov Furqatbek Rayimberganovich",
+    "category": "phd",
+    "position": {
+      "uz": "Hozirda Toshkent davlat agrar universiteti Qishloq xo'jaligini raqamlashtirish va axborot-kommunikasiya texnologiyalari masalalari bo'yicha prorektori lavozimida ishlamoqda",
+      "ru": "В настоящее время работает проректором Ташкентского государственного аграрного университета по цифровизации сельского хозяйства и информационно-коммуникационных технологий.",
+      "en": "Currently, he is working as vice-rector of Tashkent State Agrarian University for digitalization of agriculture and information and communication technologies."
+    },
+    "topic": {
+      "uz": "«Shaxs yuzi tasviriga ko'ra identifikasiyalashning matematik va dasturiy ta'minoti».",
+      "ru": "«Математическая и программная реализация распознавания лиц».",
+      "en": "\"Mathematical and software implementation of facial image recognition\"."
+    },
+    "image": "/images/disciples/d103.png"
+  },
+  {
+    "id": 104,
+    "name": "Maxmudjanov Sarvar",
+    "category": "phd",
+    "position": {
+      "uz": "Xozir Toshkent axborot texnologiyalari universiteti, \"Axborot texnologiyalari\" kafedrasi dosenti lavozimida ishlaydi.",
+      "ru": "В настоящее время работает доцентом Ташкентского университета информационных технологий, кафедра «Информационные технологии».",
+      "en": "Currently, he works as an associate professor at Tashkent University of Information Technologies, \"Information Technologies\" department."
+    },
+    "topic": {
+      "uz": "\"IoT texnologiyalari asosida biomedisina signallarini raqamli ishlash parallel algoritmlari va usullari\".",
+      "ru": "«Параллельные алгоритмы и методы цифровой обработки биомедицинских сигналов на основе технологий Интернета вещей».",
+      "en": "\"Parallel algorithms and methods of digital processing of biomedical signals based on IoT technologies\"."
+    },
+    "image": "/images/disciples/d104.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Yusupov Ibroximjon",
+    "category": "phd",
+    "position": {
+      "uz": "Hozirda Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universiteti “Xalqaro hamkorlik, xalqaro reytinglar va strategik rivojhlashtirish” bo'limi boshlig'i bo'lib faoliyat yuritmoqda",
+      "ru": "Работает заведующим кафедрой «Международное сотрудничество, международные рейтинги и стратегическое развитие» Ташкентского университета информационных технологий имени Мухаммада ал-Хоразми.",
+      "en": "He works as the head of the \"International cooperation, international ratings and strategic development\" department of the Tashkent University of Information Technologies named after Muhammad al-Khorazmi."
+    },
+    "topic": {
+      "uz": "\"Bulutli texnologiyalar asosida ko'p o'lchovli signallarni raqamli ishlashning parallel usullari va algoritmlari\".",
+      "ru": "«Параллельные методы и алгоритмы цифровой обработки многомерных сигналов на основе облачных технологий».",
+      "en": "\"Parallel methods and algorithms for digital processing of multidimensional signals based on cloud technologies\"."
+    },
+    "image": "/images/disciples/d105.png"
+  },
+  {
+    "id": 106,
+    "name": "Joʼraev Jonibek Oʼktamovich",
+    "category": "phd",
+    "position": {
+      "uz": "2022 yil 29 oktyabr kuni to‘satdan avtoxalokatda vafot etgan",
+      "ru": "Он внезапно погиб в автокатастрофе 29 октября 2022 года.",
+      "en": "He died suddenly in a car accident on October 29, 2022"
+    },
+    "topic": {
+      "uz": "“Ikki oʼlchovli signallarni veyvlet usulida modellashtirish algoritmlari va dasturlari”",
+      "ru": "«Алгоритмы и программное обеспечение для моделирования двумерных сигналов с использованием вейвлет-метода».",
+      "en": "\"Algorithms and software for modeling two-dimensional signals using the wavelet method\"."
+    },
+    "image": "/images/disciples/d106.png"
+  },
+  {
+    "id": 107,
+    "name": "Azimov Bunyodjon",
+    "category": "phd",
+    "position": {
+      "uz": "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universiteti, Sun'iy intellekt kafedrasi dotsenti",
+      "ru": "доцент кафедры искусственного интеллекта Ташкентского университета информационных технологий имени Мухаммада ал-Хоразми",
+      "en": "Associate Professor of the Department of Artificial Intelligence, Tashkent University of Information Technologies named after Muhammad al-Khorazmi"
+    },
+    "topic": {
+      "uz": "\"Bo'lak-polinomial usullarda biomedisina signallarni raqamli ishlash algoritmlari va dasturiy taminotini yaratish\".",
+      "ru": "«Создание алгоритмов и программного обеспечения для цифровой обработки медико-биологических сигналов кусочно-полиномиальными методами».",
+      "en": "\"Creation of algorithms and software for digital processing of biomedical signals using piece-polynomial methods\"."
+    },
+    "image": "/images/disciples/d107.png"
+  },
+  {
+    "id": 108,
+    "name": "Аsqaraliev Odilbek Ulugʼbek oʼgʼli",
+    "category": "phd",
+    "position": {
+      "uz": "Toshkent Perfect universiteti rectori lavozimida ishlab kelmoqda",
+      "ru": "Работает ректором университета Perfect",
+      "en": "He works as rector of the Perfect university"
+    },
+    "topic": {
+      "uz": "“Аvtomatlashtirilgan kameral soliq nazoratini tashkil etishda axborot almashish jarayonlari samaradorligini oshirish”",
+      "ru": "«Повышение эффективности процессов обмена информацией при организации автоматизированного камерального налогового контроля»",
+      "en": "\"Improving the efficiency of information exchange processes in the organization of automated camera tax control\""
+    },
+    "image": "/images/disciples/d108.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Jabbarov Jamoliddin Sindorovich",
+    "category": "phd",
+    "position": {
+      "uz": "Sharof Rashidov nomidagi Samarqand davlat universiteti Intellektual tizimlar va kompyuter texnologiyalari fakultetining Kompyuter ilmlar va texnologiyalar fanlar kafedrasi mudiri PhD, dotsent",
+      "ru": "Заведующий кафедрой компьютерных наук и технологий факультета интеллектуальных систем и компьютерных технологий Самаркандского государственного университета имени Шарафа Рашидова, доктор философии, доцент",
+      "en": "PhD, Associate Professor, Head of the Department of Computer Science and Technology Sciences of the Faculty of intellectual systems and computer technology of Samarkand State University named after Sharaf Rashidov"
+    },
+    "topic": {
+      "uz": "“Murakkab fraktal tuzilishli tibbiy tasvirlarni raqamli ishlash usullari yordamida geometrik modellashtirish”",
+      "ru": "«Геометрическое моделирование медицинских изображений со сложной фрактальной структурой с использованием методов цифровой обработки»",
+      "en": "\"Geometric modeling of medical images with complex fractal structure using digital processing methods\""
+    },
+    "image": "/images/disciples/d109.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Mullajonova Fotima Tuychibaevna",
+    "category": "phd",
+    "position": {
+      "uz": "Hozirda Namangan muhandislik-texnologiya instituti “Informatsion texnologiyalari” kafedrasida dotsent lavozimida ishlamoqda",
+      "ru": "В настоящее время работает доцентом кафедры «Информационные технологии» Наманганского инженерно-технологического института.",
+      "en": "Currently, he is working as an associate professor at the \"Information Technologies\" department of the Namangan Institute of Engineering and Technology"
+    },
+    "topic": {
+      "uz": "“Harorat signallarga raqamli ishlov berish algorotmlari va dasturiy majmuasini yaratish”",
+      "ru": "«Создание алгоритмов и программного комплекса цифровой обработки температурных сигналов»",
+      "en": "\"Creation of algorithms and software complex for digital processing of temperature signals\""
+    },
+    "image": "/images/disciples/d110.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Qo'chqarov Muslimjon",
+    "category": "phd",
+    "position": {
+      "uz": "Muhammad al Xorazmiy nomidagi Toshkent axborot texnologiyalari universiteti Sun'iy intellekt kafedrasi dotsenti.",
+      "ru": "Доцент кафедры искусственного интеллекта Ташкентского университета информационных технологий имени Мухаммада аль-Хорезми.",
+      "en": "Associate Professor of the Department of Artificial Intelligence of the Tashkent University of Information Technologies named after Muhammad al-Khorazmi."
+    },
+    "topic": {
+      "uz": "Geofizik signallarga raqamli ishlov berish jarayonlarining parallel algoritmlari va dasturiy majmuasi",
+      "ru": "Параллельные алгоритмы и программный комплекс цифровой обработки геофизических сигналов",
+      "en": "Parallel algorithms and software complex of digital processing of geophysical signals"
+    },
+    "image": "/images/disciples/d111.png"
+  },
+  {
+    "id": 112,
+    "name": "Nurmurodov Javohir Nurmurod o‘g‘li",
+    "category": "phd",
+    "position": {
+      "uz": "Muhammad al-Xorazmiy nomidagi Toshkent axborot texnologiyalari universitetining “Sun'iy intellekt” kafedrasi dotsenti lavozimida ishlamoqda",
+      "ru": "Работает доцентом кафедры «Искусственный интеллект» Ташкентского университета информационных технологий имени Мухаммада ал-Хоразми",
+      "en": "He works as dotsent at the Department of \"Artificial Intelligence\" of the Tashkent University of Information Technologies named after Muhammad al-Khorazmi"
+    },
+    "topic": {
+      "uz": "Zontlashgan geofizik signallarga raqamli ishlov berish algoritmlari va dasturiy majmuasi yaratish",
+      "ru": "Создание алгоритмов и программного комплекса цифровой обработки зональных геофизических сигналов",
+      "en": "Creation of algorithms and software complex for digital processing of zoned geophysical signals."
+    },
+    "image": "/images/disciples/d112.jpg"
+  },
+  {
+    "id": 113,
+    "name": "Ibragimov Sanjarbek Salijanovich",
+    "category": "phd",
+    "position": {
+      "uz": "Andijon mashinasozlik instituti dotcenti",
+      "ru": "Andijon mashinasozlik instituti dotcenti",
+      "en": "Andijan Mechanical Engineering Institute, an associate professor at the \"Information Technologies\" department"
+    },
+    "topic": {
+      "uz": "Tez o‘zgartirishlar asosida maxsus prosessorlarni modellashtirish va qurish",
+      "ru": "Моделирование и построение специальных процессоров на основе быстрых изменений",
+      "en": "Modeling and construction of special processors based on quick changes"
+    },
+    "image": "/images/disciples/d113.png"
+  },
+  {
+    "id": 114,
+    "name": "Jo'rayev Umidjon Sayfullayevich",
+    "category": "phd",
+    "position": {
+      "uz": "Guliston davlat universiteti dotcenti",
+      "ru": "Доцент Гулистанского государственного университета",
+      "en": "Gulistan State University, an associate professor"
+    },
+    "topic": {
+      "uz": "\"Tasvirlarga raqamli ishlov berishning parallel algoritmlarini yaratish\"",
+      "ru": "«Создание параллельных алгоритмов цифровой обработки изображений»",
+      "en": "\"Creating parallel algorithms of digital image processing\""
+    },
+    "image": "/images/disciples/d114.png"
+  },
+  {
+    "id": 115,
+    "name": "Xurramov Latif Yakubboy o‘g‘li",
+    "category": "phd",
+    "position": {
+      "uz": "Samarqand davlat universiteti dotcenti",
+      "ru": "Доцент Самаркандского государственного университета",
+      "en": "Samarkand State University, an associate professor"
+    },
+    "topic": {
+      "uz": "05.01.04 – Hisoblash mashinalari, majmualari va komp'yuter tarmoqlarining matematik va dasturiy ta'minoti (texnika fanlari)",
+      "ru": "05.01.04 – Математическое и программное обеспечение вычислительных машин, комплексов и компьютерных сетей (технические науки)",
+      "en": "05.01.04 – Mathematical and software support of computing machines, complexes and computer networks (technical sciences)"
+    },
+    "image": "/images/disciples/d115.jpg"
+  },
+  {
+    "id": 116,
+    "name": "Abdug‘aniev Muxriddin Muxiddin o‘g‘li",
+    "category": "phd",
+    "position": {
+      "uz": "Zahiriddin Muhammad Bobur nomidagi Andijon davlat universitetining “Axborot texnologiyalari” kafedrasi 2-kurs tayanch doktoranti",
+      "ru": "2 курс базового докторанта кафедры «Информационные технологии» Андижанского государственного университета имени Захириддина Мухаммада Бабура",
+      "en": "2nd year basic doctoral student of the \"Information Technologies\" department of Andijan State University named after Zahiriddin Muhammad Babur"
+    },
+    "topic": {
+      "uz": "Biomeditsina signallarini raqamli ishlashning bo'lak-polinomiyal usullari va dasturini yaratish",
+      "ru": "Создание кусочно-полиномиальных методов и программного комплекса цифровой обработки биомедицинских сигналов",
+      "en": "Creation of piece-polynomial methods and software complex for digital processing of biomedical signals"
+    },
+    "image": "/images/disciples/d116.jpg"
+  },
+  {
+    "id": 117,
+    "name": "Toxirova Farida Olimjonovna",
+    "category": "phd",
+    "position": {
+      "uz": "Samarqand Davlat tibbiyot universiteti",
+      "ru": "Самаркандский государственный медицинский университет",
+      "en": "Samarkand State Medical University"
+    },
+    "topic": {
+      "uz": "Oliy tibbiyot taʼlimi yoʼnalishi talabalarida kasbiy tafakkurni pedagogik muloqot vositalari yordamida shakllantirish metodikasi",
+      "ru": "Методика формирования профессионального мышления студентов высшего медицинского образования с помощью средств педагогической коммуникации",
+      "en": "Methodology for forming professional thinking in students of higher medical education using pedagogical communication tools"
+    },
+    "image": "/images/disciples/d117.png"
+  }
+]

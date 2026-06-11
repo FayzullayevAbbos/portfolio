@@ -1,0 +1,265 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * Academic portfolio theme — light-first, scholarly and calm.
+ * A deep academic blue carries identity; surfaces stay a true cool off-white
+ * (chroma ~0, no cream tell). Serif display + sans body for a scholarly axis.
+ * Retune the whole site from :root / .dark here, never inside components.
+ */
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-gold: var(--gold);
+  --color-gold-foreground: var(--gold-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --font-sans: var(--font-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-serif), Georgia, "Times New Roman", serif;
+
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+
+  --shadow-sm: var(--shadow-sm);
+  --shadow-card: var(--shadow-card);
+  --shadow-pop: var(--shadow-pop);
+}
+
+:root {
+  --background: #fbfbfc;
+  --foreground: #16181d;
+  --card: #ffffff;
+  --card-foreground: #16181d;
+  --popover: #ffffff;
+  --popover-foreground: #16181d;
+
+  --primary: #14467a; /* deep academic blue */
+  --primary-foreground: #ffffff;
+  --secondary: #eef1f5;
+  --secondary-foreground: #1d2530;
+  --muted: #f1f3f6;
+  --muted-foreground: #5b6470;
+  --accent: #e9eff7;
+  --accent-foreground: #14467a;
+  --gold: #a87c1e; /* awards / distinction accent */
+  --gold-foreground: #ffffff;
+
+  --destructive: oklch(0.58 0.21 27);
+  --border: #e4e7ec;
+  --input: #d6dae1;
+  --ring: #14467a;
+
+  --radius: 0.625rem;
+
+  --shadow-sm: 0 1px 2px rgba(16, 24, 40, 0.05);
+  --shadow-card: 0 1px 3px rgba(16, 24, 40, 0.08), 0 1px 2px rgba(16, 24, 40, 0.04);
+  --shadow-pop: 0 12px 32px rgba(16, 24, 40, 0.12), 0 2px 8px rgba(16, 24, 40, 0.06);
+}
+
+.dark {
+  --background: #0e1117;
+  --foreground: #f2f4f8;
+  --card: #151a22;
+  --card-foreground: #f2f4f8;
+  --popover: #151a22;
+  --popover-foreground: #f2f4f8;
+
+  --primary: #4d8fd6;
+  --primary-foreground: #0a1018;
+  --secondary: #1c232e;
+  --secondary-foreground: #e6eaf0;
+  --muted: #1a212b;
+  --muted-foreground: #97a1ae;
+  --accent: #1b2735;
+  --accent-foreground: #9ec3ec;
+  --gold: #d6b362;
+  --gold-foreground: #1a1404;
+
+  --destructive: oklch(0.62 0.21 27);
+  --border: #232b36;
+  --input: #2b3440;
+  --ring: #4d8fd6;
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-card: 0 4px 16px rgba(0, 0, 0, 0.4);
+  --shadow-pop: 0 18px 48px rgba(0, 0, 0, 0.55);
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-synthesis-weight: none;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: -0.006em;
+  }
+  html {
+    @apply font-sans;
+    scroll-behavior: smooth;
+  }
+  h1, h2, h3, h4 {
+    @apply font-serif;
+    text-wrap: balance;
+    letter-spacing: -0.018em;
+    font-feature-settings: "kern", "liga";
+  }
+  h1 {
+    letter-spacing: -0.028em;
+  }
+  p {
+    text-wrap: pretty;
+  }
+  button:not(:disabled),
+  [role="button"]:not([aria-disabled="true"]),
+  summary {
+    cursor: pointer;
+  }
+  :focus-visible {
+    outline: 2px solid var(--ring);
+    outline-offset: 2px;
+  }
+}
+
+@layer utilities {
+  /* Page-swap entrance — always completes on load (not gated on scroll) */
+  @keyframes enter-rise {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+  .animate-enter {
+    animation: enter-rise 0.45s cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+
+  /* Signature signal/spline curve — draws itself on load (hero motif) */
+  @keyframes spline-draw {
+    from {
+      stroke-dashoffset: 1;
+    }
+    to {
+      stroke-dashoffset: 0;
+    }
+  }
+  .animate-spline {
+    stroke-dasharray: 1;
+    stroke-dashoffset: 1;
+    animation: spline-draw 2.4s cubic-bezier(0.65, 0, 0.35, 1) 0.2s forwards;
+  }
+
+  /* Slow drift for the secondary spline echo */
+  @keyframes spline-pulse {
+    0%, 100% { opacity: 0.18; }
+    50% { opacity: 0.4; }
+  }
+  .animate-spline-pulse {
+    animation: spline-pulse 6s ease-in-out infinite;
+  }
+
+  /* Header dropdown — fade + slight rise on open */
+  @keyframes dropdown-in {
+    from {
+      opacity: 0;
+      transform: translateY(-6px) scale(0.98);
+    }
+    to {
+      opacity: 1;
+      transform: none;
+    }
+  }
+  .animate-dropdown {
+    transform-origin: top;
+    animation: dropdown-in 0.16s cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+
+  /* Mobile drawer — slide in from the right + backdrop fade */
+  @keyframes drawer-in {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: none;
+    }
+  }
+  .animate-drawer {
+    animation: drawer-in 0.3s cubic-bezier(0.16, 1, 0.3, 1) both;
+  }
+  @keyframes backdrop-in {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  .animate-backdrop {
+    animation: backdrop-in 0.3s ease-out both;
+  }
+
+  /* Subtle entrance used by sections; visible by default, JS gates hidden state */
+  .reveal-hidden {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  .reveal-in {
+    opacity: 1;
+    transform: none;
+    transition:
+      opacity 0.7s cubic-bezier(0.16, 1, 0.3, 1),
+      transform 0.7s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    .animate-enter {
+      animation: none;
+    }
+    .animate-spline {
+      animation: none;
+      stroke-dashoffset: 0;
+    }
+    .animate-spline-pulse {
+      animation: none;
+    }
+    .animate-dropdown,
+    .animate-drawer,
+    .animate-backdrop {
+      animation: none;
+    }
+    .reveal-hidden,
+    .reveal-in {
+      opacity: 1;
+      transform: none;
+      transition: none;
+    }
+  }
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 2,
+    "name": "Svinin Sergey Fedorovich",
+    "title": {
+      "uz": "Svinin Sergey Fedorovich texnika fanlari doktori, professor H.N.Zaynidinovning nomzodlik dissertatsiyasining ilmiy rahbari hisoblanadi.",
+      "ru": "Свинин Сергей Федорович является профессором инженерного дела и научным руководителем диссертации профессора Х.Н.Зайнидинова.",
+      "en": "Svinin Sergey Fedorovich is a professor of engineering and scientific director of professor H.N.Zaynidinov's thesis."
+    },
+    "bio": {
+      "uz": [
+        "Svinin Sergey Fedorovich - texnika fanlari doktori, professor. Leningrad elektrotexnika instituti(LETI)da \"Hisoblash texnikasi\" kafedrasida ishlardi. 1965 yilda nomzodlik dissertatsiyasini himoya qildi, 1966 yildan 1996 yilgacha LETI \"Hisoblash texnikasi\" kafedrasida dotsent bo'lib ishladi. 1968 yilda uning dotsent ilmiy unvoni tasdiqlandi. U Kubaga (1971-1972 yillar) va GDRga (1974 yil) o'qitish ishlariga safarga yuborilgan. 1999 yilda Rossiya Fanlar akademiyasining Sankt-Peterburg informatika va avtomatika institutida texnika fanlari doktori ilmiy darajasi uchun doktorlik dissertatsiyasini himoya qildi va o'sha yili ushbu institutda ilmiy tadqiqotlarni avtomatlashtirish laboratoriyasida katta ilmiy xodim sifatida ishga qabul qilindi va u erda 2019 yil dekabrgacha etakchi ilmiy xodim sifatida ishladi. Sankt-Peterburg olimlar uyushmasi ilmiy kengashi a'zosi, SPbSU \"Aniq fanlar\" doimiy komissiyasining raisi. \"SSSR ixtirochisi\" belgisi, \"Mehnat faxriysi\" medali bilan taqdirlangan. Hozirda u munosib xizmatlari uchun nafaqaxo'r sifatida dam olishda. H.N.Zaynidinov S.F.Svinin rahbarligida 1993 yil 19 oktyabrda V.I.Lenin nomidagi Sankt-Peterburg davlat elektrotexnika universitetida texnika fanlari nomzodi ilmiy darajalarini berish bo'yicha ixtisoslashgan kengashda texnika fanlari nomzodi ilmiy darajasi uchun 05.13.13 - \"Hisoblash mashinalari, tizimlari, komplekslari va tarmoqlari\" ixtisosligi bo'yicha \"Исследование и разработка алгоритмов и процессорных средств быстрых преобразований в кусочно-параболических базисах\" mavzusida dissertatsiyasini himoya qildi."
+      ],
+      "ru": [
+        "Свиньин Сергей Федорович -Доктор технических наук, профессор. Он работал на кафедре вычислительной техники Ленинградского электротехнического института (ЛЭТИ). В 1965 году защитил кандидатскую диссертацию, с 1966 года по 1996 год работал доцентом кафедры вычислительной техники ЛЭТИ. Утвержден в ученом звании доцента в 1968 году. Командировался для преподавательской работы на Кубу (1971-1972 гг.) и в ГДР (1974 г.). В 1999 году защитил докторскую диссертацию на соискание ученой степени доктора технических наук в Санкт-Петербургском институте информатики и автоматизации РАН и в том же году принят на работу в данном институте в должности старшего научного сотрудника лаборатории автоматизации научных исследований, где работал в должности ведущего научного сотрудника до декабря 2019 года. Член научного совета Санкт-Петербургского союза ученых, председатель постоянной комиссии \"Точные науки\" СПбСУ. Награжден знаком ”Изобретатель СССР”, медалью ”Ветеран труда”. В настоящее время он находится в заслуженном отдыхе как пенсионер. Зайнидинов Х.Н. под руководством С.Ф.Свиньина в 19 октября 1993 года защитил диссертацию на соискане учёной степени кандидата технических наук в Специализированном Совете по присвоению ученых степеней кандидата технических наук при Санкт-Петербургском государственном электротехникческом университете имени В.И. Ленина (Ульянова) по теме “Исследование и разработка алгоритмов и процессорных средств быстрых преобразований в кусочно-параболических базисах“ по специальности 05.13.13 – “Вычислительные машины,системы, комплексы и сети”."
+      ],
+      "en": [
+        "Svinin Sergey Fedorovich -Doctor of technical sciences, professor. He worked at the Department of Computer Engineering of the Leningrad Electrotechnical Institute (LETI). In 1965 he defended his Ph.D. thesis, from 1966 to 1996 he worked as an assistant professor at the Department of Computer Engineering at LETI. Approved for the academic title of Associate Professor in 1968. He was sent to teach in Cuba (1971-1972) and the German Democratic Republic (1974). In 1999 he defended his doctoral dissertation for the degree of Doctor of Technical Sciences at the St. Petersburg Institute for Informatics and Automation of the Russian Academy of Sciences and in the same year he was hired at this institute as a senior researcher at the Laboratory for Scientific Research Automation, where he worked as a leading researcher until December 2019. Member of the Scientific Council of the St. Petersburg Union of Scientists, Chairman of the Standing Committee \"Exact Sciences\" SPbSU. Awarded with the sign “Inventor of the USSR”, the medal “Veteran of Labor”. He is currently in a well-deserved retirement as a pensioner. Zainidinov H.N. under the guidance of S.F. Svinin in October 19, 1993 he defended his thesis for the degree of candidate of technical sciences in the Specialized Council for the conferment of scientific degrees of candidate of technical sciences at the St. Petersburg State Electrotechnical University named after V.I.Lenin (Ulyanov) on the topic “Development of algorithms and processor means of fast transformations in piecewise-parabolic bases” in specialty 05.13.13 - “Computing machines, systems, complexes and networks”."
+      ]
+    },
+    "image": "/images/teachers/t1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kasimov Sodiqjon Sobirovich",
+    "title": {
+      "uz": "Kasimov Sodiqjon Sobirovich texnika fanlari doktori, professor H.N.Zaynidinovning doktorlik dissertatsiyasi ilmiy maslahatchisi hisoblanadi.",
+      "ru": "Касымов Садыкжан Сабирович является научным консультантом докторской диссертации д.т.н., профессора Зайнидинова Х.Н.",
+      "en": "Kasimov Sadikjon Sobirovich is a scientific consultant of the doctoral dissertation of Doctor of Technical Sciences, Professor Zainidinov H.N."
+    },
+    "bio": {
+      "uz": [
+        "Kasimov Sodiqjon Sobirovich - texnika fanlari doktori, professor. U Toshkent texnika universiteti dekani, prorektori, O'zbekiston Respublikasi Oliy ta'lim vazirligi bo'lim boshlig'i lavozimlarida ishlagan. 1999 yildan 2010 yilgacha Toshkent axborot texnologiyalari universiteti rektori lavozimida ishlagan. Hozirda u munosib xizmatlari uchun nafaqaxo'r sifatida dam olishda. H.N.Zaynidinov S.S.Kasimov boshchiligida 2005 yil 8 oktyabrda Toshkent Axborot Texnologiyalari Universitetida texnika fanlari doktori ilmiy darajalarini berish bo'yicha ixtisoslashtirilgan kengashda texnika fanlari doktori ilmiy darajasini olish uchun 05.13.13 – \"Hisoblash mashinalari, tizimlari, majmualari va tarmoqlari\" ixtisosligi bo'yicha \"Ko'p o'lchovli signallarni bo'lak-polinomial bazislarda qayta ishlovchi yuqori unumli hisoblash strukturalarini modellashtirish usullari\" mavzusida himoya qildi."
+      ],
+      "ru": [
+        "Касымов Садыкжан Сабирович - доктор технических наук, профессор. Он работал деканом, проректором Ташкенского технического университета, начальником управления МинВУЗа Республики Узбекистан. С 1999 года по 2010 года он работал ректором Ташкентского университета информационных технологий. В настоящее время он находится в заслуженном отдыхе как пенсионер.\\r\\nЗайнидинов Х.Н. под руководством С.С. Касымова в 8 октября 2005 года защитил диссертацию на соискане учёной степени доктора технических наук в Специализированном Совете по присвоению ученых степеней доктора технических наук при Ташкентском университете информационных технологий по теме “Методы моделирования высокопроизводительных вычислительных структур обработки многомерных сигналов в кусочно-полиномиальных базисах“ по специальности 05.13.13 – “Вычислительные машины,системы, комплексы и сети”."
+      ],
+      "en": [
+        "Kasimov Sadikjon Sobirovich - Doctor of Technical Sciences, Professor. He worked as dean, vice-rector of the Tashkent Technical University, head of the department of the Ministry of Higher Education of the Republic of Uzbekistan. From 1999 to 2010, he worked as the rector of the Tashkent University of Information Technologies. He is currently in a well-deserved retirement as a pensioner.\\r\\nZainidinov H.N. under the leadership of S.S.Kasimov on October 8, 2005, defended his dissertation for the degree of Doctor of Technical Sciences at the Specialized Council for conferring doctoral degrees in technical sciences at the Tashkent University of Information Technologies on the topic “Methods of modeling of high-efficiency computing structures of processing multidimensional signals in piecewise-polynomial bases” in specialty 05.13.13 - “Computing machines, systems, complexes and networks”."
+      ]
+    },
+    "image": "/images/teachers/t2.png"
+  }
+]

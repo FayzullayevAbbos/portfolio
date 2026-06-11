@@ -1,0 +1,114 @@
+[
+  {
+    "title": {
+      "uz": "Toshkent axborot texnologiyalari universiteti xabarlari.",
+      "ru": "Сообщения ташкентского университета информационных технологий.",
+      "en": "Messages from the Tashkent University of Information Technologies."
+    },
+    "role": {
+      "uz": "Bosh redaktor o'rinbosari",
+      "ru": "Заместитель главного редактора",
+      "en": "Deputy Editor-in-Chief"
+    },
+    "group": 1,
+    "url": "https://tuit.uz/ilmiy-jurnal"
+  },
+  {
+    "title": {
+      "uz": "Геология и минерально-сырьевые ресурсы Сибири",
+      "ru": "Геология и минерально-сырьевые ресурсы Сибири",
+      "en": "Геология и минерально-сырьевые ресурсы Сибири"
+    },
+    "role": {
+      "uz": "Член редколлегии",
+      "ru": "Член редколлегии",
+      "en": "Член редколлегии"
+    },
+    "group": 2,
+    "url": "http://www.jourgimss.ru/SitePages/editboard.aspx"
+  },
+  {
+    "title": {
+      "uz": "Journal of Convergence Information Technology",
+      "ru": "Journal of Convergence Information Technology",
+      "en": "Journal of Convergence Information Technology"
+    },
+    "role": {
+      "uz": "Editor",
+      "ru": "Editor",
+      "en": "Editor"
+    },
+    "group": 2,
+    "url": "http://www.globalcis.org/jcit/home/editorial.html"
+  },
+  {
+    "title": {
+      "uz": "International Journal of Management and Humanities (IJMH)",
+      "ru": "International Journal of Management and Humanities (IJMH)",
+      "en": "International Journal of Management and Humanities (IJMH)"
+    },
+    "role": {
+      "uz": "Assoc Editor-In-Chief",
+      "ru": "Assoc Editor-In-Chief",
+      "en": "Assoc Editor-In-Chief"
+    },
+    "group": 2,
+    "url": "https://www.ijmh.org/editorial-board/dr-hakimjon-zaynidinov/"
+  },
+  {
+    "title": {
+      "uz": "International Journal of Engineering and Advanced Technology (IJEAT)",
+      "ru": "International Journal of Engineering and Advanced Technology (IJEAT)",
+      "en": "International Journal of Engineering and Advanced Technology (IJEAT)"
+    },
+    "role": {
+      "uz": "Assoc Editor-In-Chief",
+      "ru": "Assoc Editor-In-Chief",
+      "en": "Assoc Editor-In-Chief"
+    },
+    "group": 2,
+    "url": "https://www.ijeat.org/editorial-board/dr-hakimjon-zaynidinov/"
+  },
+  {
+    "title": {
+      "uz": "International Journal of Recent Technology and Engineering (IJRTE)",
+      "ru": "International Journal of Recent Technology and Engineering (IJRTE)",
+      "en": "International Journal of Recent Technology and Engineering (IJRTE)"
+    },
+    "role": {
+      "uz": "Assoc Editor-In-Chief",
+      "ru": "Assoc Editor-In-Chief",
+      "en": "Assoc Editor-In-Chief"
+    },
+    "group": 2,
+    "url": "https://www.ijrte.org/editorial-board/dr-hakimjon-zaynidinov/"
+  },
+  {
+    "title": {
+      "uz": "International Journal of Advanced Engineering and Nano Technology (IJAENT)",
+      "ru": "International Journal of Advanced Engineering and Nano Technology (IJAENT)",
+      "en": "International Journal of Advanced Engineering and Nano Technology (IJAENT)"
+    },
+    "role": {
+      "uz": "Assoc Editor-In-Chief",
+      "ru": "Assoc Editor-In-Chief",
+      "en": "Assoc Editor-In-Chief"
+    },
+    "group": 2,
+    "url": "https://www.ijaent.org/editorial-board/dr-hakimjon-zaynidinov/"
+  },
+  {
+    "title": {
+      "uz": "International Journal of Emerging Science and Engineering (IJESE)",
+      "ru": "International Journal of Emerging Science and Engineering (IJESE)",
+      "en": "International Journal of Emerging Science and Engineering (IJESE)"
+    },
+    "role": {
+      "uz": "Assoc Editor-In-Chief",
+      "ru": "Assoc Editor-In-Chief",
+      "en": "Assoc Editor-In-Chief"
+    },
+    "group": 2,
+    "url": "https://www.ijese.org/editorial-board/dr-hakimjon-zaynidinov/"
+  }
+]
